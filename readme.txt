@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is quick and simple.
 I'm learning git.
+
+Add .cs and .cpp.
